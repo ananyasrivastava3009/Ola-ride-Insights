@@ -1,0 +1,21 @@
+Column,Missing_Count
+Date,0
+Time,0
+Booking_ID,0
+Booking_Status,0
+Customer_ID,0
+Vehicle_Type,0
+Pickup_Location,0
+Drop_Location,0
+V_TAT,39057
+C_TAT,39057
+Canceled_Rides_by_Customer,92525
+Canceled_Rides_by_Driver,84590
+Incomplete_Rides,39057
+Incomplete_Rides_Reason,99098
+Booking_Value,0
+Payment_Method,39057
+Ride_Distance,0
+Driver_Ratings,39057
+Customer_Rating,39057
+Vehicle Images,0
